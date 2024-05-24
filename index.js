@@ -78,10 +78,6 @@ document.querySelector('#submitGoal').addEventListener('click', function(){
     
 });
 
-    
-    
-
-
 
 ///
 let waterIntake = 0;
